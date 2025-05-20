@@ -399,6 +399,14 @@ section {
   color: var(--primary-color);
 }
 
+.contact-card {
+  background-color: rgba(rgb(45, 42, 42), rgb(38, 44, 38), rgb(12, 12, 25), 0.5);
+}
+
+.linkedin {
+  text-decoration: underline;
+}
+
 footer {
   background-color: var(--darker-bg);
   border-top: 1px solid var(--border-color);
