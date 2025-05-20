@@ -384,6 +384,10 @@ section {
   transition: var(--transition);
 }
 
+.demo {
+  color: yellow;
+}
+
 .project-links a:hover {
   color: var(--primary-color);
 }
